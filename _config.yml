@@ -23,7 +23,7 @@ sass:
 
 # Build settings
 compress-site: yes
-remote_theme: jekyll-theme-orbit
+#remote_theme: jekyll-theme-orbit
 
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
