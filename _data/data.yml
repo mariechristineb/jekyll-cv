@@ -1,0 +1,253 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Marie-Christine Boucher
+    tagline: Literature | OA | Web
+    avatar: marie-christine-boucher.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: mc.boucher.de@gmail.com
+    phone:
+    website:  #do not add http://
+    orcid: 0000-0002-2475-3184
+    linkedin: mariechristineboucher
+    github: mariechristineb
+    gitlab:
+    bitbucket:
+    twitter: '@marie_c_boucher'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+
+    languages:
+      - idiom: French
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: German
+        level: Professional
+
+      - idiom: Russian
+        level: Beginner/Intermediate
+
+      - idiom: Spanish
+        level: Beginner/Intermediate
+
+  #  interests:
+  #    - item: Yoga
+  #      link:
+#
+#      - item: Cooking
+#        link:
+#
+#      - item: Knitting
+#        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      PhD Candidate in <a href="https://www.uni-giessen.de/faculties/gcsc/ipp/about-the-ipp/ipp-members/phd-students?set_language=en" target="_blank">German and comparative literary and cultural studies</a>.
+
+      Co-editor of OA projects <a href="https://www.on-culture.org/" target="_blank">On_Culture</a> and the <a href="https://programminghistorian.org/" target="_blank">Programming Historian en français</a>.
+
+      Dilettante web designer and digital humanist.
+
+education:
+    - degree: PhD in comparative literature and cultural studies
+      university: Justus-Liebig-Universität Giessen
+      time: 2017 - ongoing
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+        - PhD Candidate in Comparative Literature and Cultural Studies
+        - Working thesis title: “Kulturelle Übersetzungsprozesse in der transnationalen deutschsprachigen Literatur”
+    - degree: M.A. in German Studies
+      university: Université de Montréal
+      time: 2011 - 2015
+    - degree: B.A. in German Studies
+      university: Université de Montréal, Ruprecht-Karls-Universität Heidelberg
+      time: 2009 - 2011
+    - degree: DEC in Modern Languages
+      university: Collège de Rosemont, Montréal (Québec, Canada)
+      time: 2006 - 2008
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: <a href="https://programminghistorian.org/" target="_blank">Member of the Editorial Board</a>
+      time: 2020 - Present
+      company: Programming Historian en français
+      details: |
+        The Programming Historian publishes open access, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
+          - Translation of English lessons into French
+          - Edition of French translations
+    - role: <a href="https://www.uni-giessen.de/faculties/gcsc/gcsc/people-organ/team/research-and-management-team/index_html" target="_blank">Web & IT Admin</a>
+      time: 2019 - Present
+      company: Graduate Centre for the Study of Culture, Giessen
+      details: |
+
+          - Website management & redesign
+          - IT admin of the Research Team
+    - role: <a href="https://www.on-culture.org/" target="_blank">Member of the Editorial Team</a>
+      time: 2019 - Present
+      company: "On_Culture: The Open Journal for the Study of Culture"
+      details: |
+        On_Culture is an open access, peer-reviewed academic eJournal.
+          - Peer review process
+          - Publication workflow on Wordpress
+    - role: German as a Foreign Language Teacher
+      time: 2014 - 2016
+      company: Université de Montréal, Deutsche Sprachschulen Québec - Montréal Zentrum
+      details: |
+        DaF teacher in various age groups (from children to adults) and levels (from beginner to conversation)
+          - Prepare and teach classes
+          - Evaluate learning outcomes
+    - role: Research and Teaching Assistant
+      time: 2009 - 2015
+      company: Université de Montréal
+      details: |
+        Research and Teaching Assistant for various classes, including German history, history of German cinema and German-French translation.
+          - Paper correction and evaluation
+          - Research, translation and proofreading
+
+projects:
+    title: Conferences, Workshops & Summer Schools
+    intro: >
+
+    assignments:
+      - title: "[TEACHING] </br></br>Transkulturalität und Transmedialität, 29 January & 05 February 2020"
+        #link: "#hook"
+        tagline: "Co-teaching of the seminar taught by Prof. Dr. Annette Simonis. Justus-Liebig-Universität-Gießen"
+      - title: "An Introduction to Computational Literary Criticism, 17 December 2019"
+        link: "https://www.uni-giessen.de/faculties/gcsc/gcsc/events/semesteroverview/Winter%20Term%201920/extra-courses/copy5_of_ipp-workshop-series-applying-gramscian-analysis-to-social-movements-in-the-digital-public-sphere-ahmet-gorgen"
+        tagline: "Teaching of a workshop on basic concepts of digital literary analysis. Justus-Liebig-Universität-Gießen."
+      - title: "Digital Literacy 101, 31 October & 15 November 2019"
+        link: "https://www.uni-giessen.de/faculties/gcsc/gcsc/events/semesteroverview/Winter%20Term%201920/research-seminars/ws-digital-literacy-101"
+        tagline: "Teaching of a two-part workshop on digital literacy, including basic web development skills such as HTML, CSS and JavaScript.</br>"
+
+      - title: "</br>[CONFERENCES] </br></br>Poetiken der Vielheit,  10-12 October 2019"
+        #link: "http://www.wbz.uni.wroc.pl/en/news/item/1370-miedzynarodowa-konferencja-pt-poetiken-der-vielheit-transnationale-literatur-in-den-deutschsprachigen-diskursraumen%E2%80%9D.html"
+        tagline: "Willy Brandt Center for German and European Studies, </br> Paper title: ''[Linguistische] Emanzipation in Das achte Leben (Für Brilka): Eine postmonolinguale Lektüre'"
+      - title: "Cultural Literacy & Cosmopolitan Conviviality, 9-11 May 2019"
+        link: "http://cleurope.eu/cultural-literacy-cosmopolitan-conviviality/"
+        tagline: "Universidade Católica Portuguesa (Lisbon), </br> Paper title: 'Translated culture(s) in Nellja Veremej’s Berlin liegt im Osten'"
+      - title: "Translating Thought/Translating Theory,  31 January & 1 February 2019"
+        link: "https://sites.google.com/sheffield.ac.uk/tttl/home"
+        tagline: "University of Sheffield, </br> Paper title: 'Cultural translation strategies in Olga Grjasnowa's Die juristische Unschärfe einer Ehe'"
+      - title: "East Europe/The Black Sea as a Multicultural Space, 5-6 October 2018"
+        #link: "#hook"
+        tagline: "Batumi Shota Rustaveli State University, </br> Paper title: 'Cultural Translation as Emancipation in Nino Haratischwili's Das achte Leben (Für Brilka)''"
+      - title: "Cultural Translation Symposium,  21 June 2018"
+        link: "http://bcmcr.org/culturaltranslation/2018/06/11/358/"
+        tagline: "Birmingham City University, </br> Paper title: ''(Cultural) Translation in Transnational German Literature'"
+      - title: "Europe from the Outside / Europe from the Inside, 7-9 June 2018"
+        link: "http://www.wbz.uni.wroc.pl/en/news/item/1316-miedzynarodowa-konferencja-europe-from-the-outside-europe-from-the-inside.html"
+        tagline: "Willy Brandt Centre for German and European Studies of the University of Wrocław, </br> Paper title: '„Meine Gegenwart, überschrittene Zukunft“. Kulturelle Übersetzungsprozesse in der transnationalen deutschsprachigen Literatur'"
+      - title: "VocUM 2017 – Langage et mondialisation, 23-24 November 2017"
+        link: "https://vocum.ca/vocum-2017/programme-2017/"
+        tagline: "Université de Montréal, </br> Paper title: 'La littérature germanophone d’auteures d’origine (post-)soviétique: un exemple de traduction culturelle'</br>"
+
+      - title: "</br>[WORKSHOPS] </br></br>  Stylometry, 23 July – 2 August 2019"
+      #  link: "http://esu.culintec.de/?q=node/1100"
+        tagline: "Culture and Technology - 10th European Summer University in Digital Humanities, University of Leipzig (Germany)"
+      - title: "Introduction to Computation for Literary Criticism, 3-9 June 2019,"
+        link: "https://dhsi.org/course-archive-2001-2018/"
+        tagline: "Digital Humanities Summer Institute, University of Victoria (Canada)</br>"
+
+      - title: "</br>[SUMMER SCHOOLS] </br></br> Challenging the Sites of Knowledge, 3-7 September 2019"
+      #  link: "http://blog.wbkolleg.unibe.ch/?page_id=7477"
+        tagline: "Bernese Summer School in TransHumanities, University of Bern (Switzerland)"
+      - title: "Cultural Translation, 14-22 July 2019"
+        link: "http://www.hab.de/de/home/wissenschaft/nachwuchsprogramme/sommerkurs-2019.html?fbclid=IwAR2YIb2KyQX7eO5dONr8qMz_0J213wFfXDoBFdANC5mZ6upQWGvnJgzA2n4"
+        tagline: "43rd International Wolfenbüttel Summer Course, Herzog August Bibliothek Wolfenbüttel (Germany)"
+      - title: "Passages. Metaphors, Narratives, and Concepts, 19-24 May 2019"
+        #link: "#hook"
+        tagline: "Hermes Consortium for Literary & Cultural Studies Summer School, Justus-Liebig-Universität Gießen"
+
+
+publications:
+    title: Publications
+    intro: |
+
+    papers:
+      - title: "To Blur the Boundaries of Fiction and Translation"
+        link: "https://doi.org/10.22029/ko.2019.255"
+        authors: Judith Woodsworth
+        conference: KULT_online, 58/2019 (Review)
+
+      - title: "Transkulturalität der Deutschschweizer Literatur. Entgrenzung durch Kulturtransfer und Migration"
+        link: "http://www.aisthesis.de/epages/63645342.sf/de_DE/?ObjectPath=/Shops/63645342/Products/978-3-8498-1387-1"
+        authors: Vesna Kondrič Horvat, ed.
+        conference: Jahrbuch Komparatistik, 2018 (Review)
+
+      - title: "Flüssige’ Postmoderne: Kneipen, Bars und Clubs als instabile Heimatkonstrukte"
+        link: "https://doi.org/10.22029/ko.2018.195"
+        authors: Vanessa Geuen
+        conference: KULT_online, 54/2018 (Review)
+
+      - title:  "Du tischört à la panosse: une 'marche en crabe' transatlantique, ou l’art impur de traduire"
+        link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/RT%C3%89S_5.pdf"
+        authors: Marie-Christine Boucher & Manuel Meune
+        conference: Revue transatlantique d’études suisses, 5.2/2015 (Translation)
+
+      - title: "Une panosse pour poutser. Essai sur l’impureté linguistique: une perspective suisse (H. Loetscher, 2002)"
+        link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/Panosse_pour_poutzer.pdf"
+        authors: Marie-Christine Boucher & Manuel Meune
+        conference: Revue transatlantique d’études suisses, 5.2/2015 (Article)
+
+      - title: "In between/Entre-deux (M. Morrison-Reed, 2008)"
+        link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/RTES_3_2013_v2.pdf"
+        authors: Marie-Christine Boucher & Manuel Meune
+        conference: Revue transatlantique d'études suisses, 3/2013 (Translation)
+
+      - title: "Der schweizerische Katalog / Le catalogue suisse (P.K. Wehrli, 1999)"
+        link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/La_Suisse_un_pays_carrefour.pdf"
+        authors: Manuel Meune, Marie-Christine Boucher & Christian Gravel
+        conference: Revue transatlantique d'études suisses, 1/2011 (Translation)
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Text Editing
+        level: 98%
+
+      - name: Bibliographic Reference Software
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: CMS (Wordpress, Plone)
+        level: 90%
+
+      - name: Markdown
+        level: 85%
+
+      - name: Javascript & jQuery
+        level: 70%
+
+      - name: GitHub Workflow
+        level: 50%
+
+footer: >
+    Created in 2020 by Marie-Christine Boucher.
+    Powered by Jekyll (theme by <a href="https://webjeda.com/" target="_blank">Sharath Kumar</a>, design by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>).
