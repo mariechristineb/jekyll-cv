@@ -23,7 +23,7 @@ sass:
 
 # Build settings
 compress-site: yes
-remote_theme: sharu725/online-cv
+remote_theme: orbit
 
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
