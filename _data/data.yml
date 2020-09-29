@@ -236,10 +236,10 @@ skills:
 
     toolset:
       - name: Text Editing
-        level: 98%
+        level: 95%
 
       - name: Bibliographic Reference Software
-        level: 98%
+        level: 95%
 
       - name: HTML5 & CSS
         level: 90%
@@ -247,13 +247,13 @@ skills:
       - name: CMS (Wordpress, Plone)
         level: 90%
 
-      - name: Markdown
+      - name: Plain Text Workflow
         level: 85%
 
-      - name: Javascript & jQuery
-        level: 70%
-
       - name: GitHub Workflow
+        level: 60%
+
+      - name: JavaScript & jQuery
         level: 50%
 
 footer: >
