@@ -79,17 +79,17 @@ education:
     - degree: B.A. in German Studies
       university: Université de Montréal, Ruprecht-Karls-Universität Heidelberg
       time: 2009 - 2011
-    - degree: DEC in Modern Languages
-      university: Collège de Rosemont, Montréal (Québec, Canada)
-      time: 2006 - 2008
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    #- degree: DEC in Modern Languages
+     # university: Collège de Rosemont, Montréal (Québec, Canada)
+      #time: 2006 - 2008
+      #details: |
+       # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
+         # - Bullet point
+          #- Bullet point
 experiences:
     - role: <a href="https://programminghistorian.org/" target="_blank">Member of the Editorial Board</a>
       time: 2020 - Present
