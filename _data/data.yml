@@ -55,9 +55,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      PhD Candidate in <a href="https://www.uni-giessen.de/faculties/gcsc/ipp/about-the-ipp/ipp-members/phd-students?set_language=en" target="_blank">German and comparative literary and cultural studies</a>.
+      PhD Candidate in <a href="https://www.uni-giessen.de/fbz/ggkgcsc/ueber-uns/promovierende/" target="_blank">German and comparative literary and cultural studies</a>.
 
-      Co-editor of OA projects <a href="https://www.on-culture.org/" target="_blank">On_Culture</a> and the <a href="https://programminghistorian.org/" target="_blank">Programming Historian en français</a>.
+      Co-editor of OA project <a href="https://programminghistorian.org/" target="_blank">Programming Historian en français</a>.
 
       Dilettante web designer and digital humanist.
 
@@ -73,6 +73,9 @@ education:
         pretium quis, sem.
         - PhD Candidate in Comparative Literature and Cultural Studies
         - Working thesis title: “Kulturelle Übersetzungsprozesse in der transnationalen deutschsprachigen Literatur”
+    - degree: Information Studies
+      university: McGill University
+      time: 2015 - 2016       
     - degree: M.A. in German Studies
       university: Université de Montréal
       time: 2011 - 2015
@@ -98,11 +101,10 @@ experiences:
         The Programming Historian publishes open access, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
           - Translation of English lessons into French
           - Edition of French translations
-    - role: <a href="https://www.uni-giessen.de/faculties/gcsc/gcsc/people-organ/team/research-and-management-team/index_html" target="_blank">Web & IT Administration</a>
+    - role: <a href="https://www.uni-giessen.de/fbz/ggkgcsc/ueber-uns/team/" target="_blank">Web & IT Administration</a>
       time: 2019 - Present
       company: Graduate Centre for the Study of Culture, Giessen
       details: |
-
           - Website management & redesign
           - IT admin of the Research Team
     - role: <a href="https://www.on-culture.org/" target="_blank">Member of the Editorial Team</a>
@@ -191,8 +193,8 @@ publications:
 
     papers:
       - title: "Cultural translation as a poetics of movement"
-        link: "https://doi.org/10.22029/ko.2020.1025"
-        authors: Elizabeth Kovach & Jens Kugele (eds.) 
+        #link: "https://doi.org/10.22029/ko.2020.1025"
+        authors: in Elizabeth Kovach & Jens Kugele (eds.) 
         conference: Passages: Moving Beyond Liminality in the Study of Literature and Culture, *forthcoming*
         
       - title: "Quantifying Literature: It’s Not All About the Digital"
@@ -250,16 +252,16 @@ skills:
         level: 90%
 
       - name: CMS (Wordpress, Plone)
-        level: 90%
-
-      - name: Plain Text Workflow
         level: 85%
 
+      - name: Plain Text Workflow
+        level: 80%
+
       - name: GitHub Workflow
-        level: 60%
+        level: 50%
 
       - name: JavaScript & jQuery
-        level: 50%
+        level: 40%
 
 footer: >
     Created in 2020 by Marie-Christine Boucher.
