@@ -106,7 +106,7 @@ experiences:
           - Website management & redesign
           - IT admin of the Research Team
     - role: <a href="https://www.on-culture.org/" target="_blank">Member of the Editorial Team</a>
-      time: 2019 - Present
+      time: 2019 - 2021
       company: "On_Culture: The Open Journal for the Study of Culture"
       details: |
         On_Culture is an open access, peer-reviewed academic eJournal.
@@ -190,6 +190,11 @@ publications:
     intro: |
 
     papers:
+      - title: "Cultural translation as a poetics of movement"
+        link: "https://doi.org/10.22029/ko.2020.1025"
+        authors: Elizabeth Kovach & Jens Kugele (eds.) 
+        conference: Passages: Moving Beyond Liminality in the Study of Literature and Culture, *forthcoming*
+        
       - title: "Quantifying Literature: It’s Not All About the Digital"
         link: "https://doi.org/10.22029/ko.2020.1025"
         authors: Ted Underwood
