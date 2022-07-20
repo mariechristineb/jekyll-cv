@@ -12,7 +12,7 @@ sidebar:
     avatar: marie-christine-boucher.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mc.boucher.de@gmail.com
+    email: mc.boucher.de&#64;gmail.com
     phone:
     website:  #do not add http://
     orcid: 0000-0002-2475-3184
