@@ -95,7 +95,7 @@ education:
           #- Bullet point
 experiences:
     - role: <a href="https://programminghistorian.org/" target="_blank">Member of the Editorial Board</a>
-      time: 2020 - Present
+      time: 2020 - 2022
       company: Programming Historian en français
       details: |
         The Programming Historian publishes open access, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
