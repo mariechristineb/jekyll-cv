@@ -134,7 +134,13 @@ projects:
     intro: >
 
     assignments:
-      - title: "[TEACHING] </br></br>Collect, Organize and Cite Sources with Zotero, 10 May 2022"
+      - title: "[TEACHING] </br></br>Literatur und/in Übersetzung, Winter Semester 2022/2023"
+        #link: "#hook"
+        tagline: "Seminar, Institut für Germanistik, Justus-Liebig-Universität Gießen."
+      - title: "Literary Multilingualism, Winter Semester 2022/2023"
+        #link: "#hook"
+        tagline: "Seminar, Institut für Anglistik, Justus-Liebig-Universität Gießen."
+      - title: "Collect, Organize and Cite Sources with Zotero, 10 May 2022 & 13 December 2022"
         link: "https://www.uni-giessen.de/faculties/ggkgcsc/events/semesteroverview/sose22/practical-courses/pc-zotero"
         tagline: "Workshop on how to use reference management software for an academic writing workflow. Justus-Liebig-Universität Gießen."
       - title: "Critical Exploration of Word Processing: Plain Text Writing in the Humanities, 18 January 2022"
