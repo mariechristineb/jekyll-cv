@@ -35,12 +35,13 @@ sidebar:
 
       - idiom: German
         level: Professional
-
+        
+      - idiom: Spanish
+        level: Beginner/Intermediate     
+        
       - idiom: Russian
         level: Beginner/Intermediate
 
-      - idiom: Spanish
-        level: Beginner/Intermediate
 
   #  interests:
   #    - item: Yoga
