@@ -93,6 +93,12 @@ education:
          # - Bullet point
           #- Bullet point
 experiences:
+    - role: <a href="https://www.uni-giessen.de/fbz/ggkgcsc/ueber-uns/team/" target="_blank">Web & IT Administration</a>
+      time: 2019 - 2023
+      company: Graduate Centre for the Study of Culture, Giessen
+      details: |
+          - Website management & redesign
+          - IT admin of the Research Team
     - role: <a href="https://programminghistorian.org/" target="_blank">Member of the Editorial Board</a>
       time: 2020 - 2022
       company: Programming Historian en français
@@ -100,12 +106,6 @@ experiences:
         The Programming Historian publishes open access, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
           - Translation of English lessons into French
           - Edition of French translations
-    - role: <a href="https://www.uni-giessen.de/fbz/ggkgcsc/ueber-uns/team/" target="_blank">Web & IT Administration</a>
-      time: 2019 - 2023
-      company: Graduate Centre for the Study of Culture, Giessen
-      details: |
-          - Website management & redesign
-          - IT admin of the Research Team
     - role: <a href="https://www.on-culture.org/" target="_blank">Member of the Editorial Team</a>
       time: 2019 - 2021
       company: "On_Culture: The Open Journal for the Study of Culture"
