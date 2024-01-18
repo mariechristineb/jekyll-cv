@@ -61,9 +61,9 @@ career-profile:
       Dilettante web designer and digital humanist.
 
 education:
-    - degree: PhD in comparative literature and cultural studies
+    - degree: PhD in comparative literature and cultural studies (summa cum laude)
       university: Justus-Liebig-Universität Giessen
-      time: 2017 - ongoing
+      time: 2017 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -93,6 +93,12 @@ education:
          # - Bullet point
           #- Bullet point
 experiences:
+    - role: <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=429920945" target="_blank">Research Associate, Germanistik</a>
+      time: 2023 - 
+      company: Universität Bielefeld
+      details: |
+          - AG Computational Literary Studies, Prof. Dr. Berenike Herrmann
+          - Projects <a href="https://www.uni-bielefeld.de/themen/qm-studium-lehre/curriculum4.0/projekte/" target="_blank">Curriculum 4.0.nrw</a> & <a href="https://www.uni-bielefeld.de/lehre/innovative-lehrprojekte/bilinked/communities-of-practice/data-literacy/" target="_blank">BiLinked CoP Data Literacy</a>
     - role: <a href="https://www.uni-giessen.de/fbz/ggkgcsc/ueber-uns/team/" target="_blank">Web & IT Administration</a>
       time: 2019 - 2023
       company: Graduate Centre for the Study of Culture, Giessen
@@ -133,7 +139,10 @@ projects:
     intro: >
 
     assignments:
-      - title: "[TEACHING] </br></br>Literatur und/in Übersetzung, Winter Semester 2022/2023"
+      - title: "[TEACHING] </br></br>Der Bildungsroman. Neue Perspektiven auf eine literaturgeschichtliche Innovation, Winter Semester 2023/2024"
+        #link: "#hook"
+        tagline: "Seminar, Germanistik, Universität Bielefeld."
+      - title: ">Literatur und/in Übersetzung, Winter Semester 2022/2023"
         #link: "#hook"
         tagline: "Seminar, Institut für Germanistik, Justus-Liebig-Universität Gießen."
       - title: "Literary Multilingualism, Winter Semester 2022/2023"
